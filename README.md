@@ -1,0 +1,2 @@
+# AntiCryptojacking-
+cryptojacking detection 
